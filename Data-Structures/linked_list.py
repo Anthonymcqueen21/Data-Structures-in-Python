@@ -1,4 +1,4 @@
-# A Linked List is used to implement other data structures.
+# A Linked List is used to implement other types of data structures.
 
 #Implementation
 class Node:
