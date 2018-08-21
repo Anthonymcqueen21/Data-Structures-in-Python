@@ -1,5 +1,4 @@
 # A binary tree is used to determine who has the most children
-
 # Python Implementation
 class Node:
      def __init__(self, data):
