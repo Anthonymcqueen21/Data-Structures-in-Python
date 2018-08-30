@@ -5,4 +5,4 @@ class Node:
    def__init__(self, data=None, next=None):
       self.data = data
       self.next = next
-      
+return Node
