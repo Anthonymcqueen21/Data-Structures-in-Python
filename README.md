@@ -10,13 +10,13 @@ Most data structures i use in my Python practice
  - Matrix
  
  New Material
- - Matrix Operations:
- Addition & Scalar
- Multiplication
- Transposition
+ Matrix Operations:
+ - Addition & Scalar
+ - Multiplication
+ - Transposition
  
- Gap Buffer
- Heap
- AVL Tree
- Decision Tree
- Red-Black Tree
+ - Gap Buffer
+ - Heap
+ - AVL Tree
+ - Decision Tree
+ - Red-Black Tree
